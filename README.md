@@ -1,5 +1,5 @@
 # Emotion Detection Python/CLI - Emotion API
-Determine the Emotion of a person using his/her picture and the haystack artificial intelligence API 
+Determine the Emotion of a person using his/her picture and the haystack artificial intelligence API.
 
 ### Usage
 ```
